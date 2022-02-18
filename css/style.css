@@ -211,7 +211,7 @@
   }
 }
 .main-block__text {
-  
+  /* для нуля единицы измерения писать необязательно */
   padding:50px 0px;
   max-width:380px;
   font-style: normal;
@@ -279,6 +279,7 @@
 }
 .content-block__info{
   max-width: 475px;
+  /* для нуля единицы измерения писать необязательно */
   margin: 0px 15px;
 }
 @media (max-width: 479px){
@@ -306,6 +307,7 @@ padding-bottom: 125px;
 
 
 .features-block{
+  /* для нуля единицы измерения писать необязательно */
   padding: 150px 0px;
  
 }
@@ -360,18 +362,21 @@ padding-bottom: 125px;
 }
 @media (max-width: 525px){
   .image1 {
+    /* для нуля единицы измерения писать необязательно */
     left: 0px;
     top: 0;
   }
 }
 @media (max-width: 320px){
   .image1 {
+    /* для нуля единицы измерения писать необязательно */
     left: 0px;
     top: 0;
   }
 }
 .image2{
   position: absolute;
+  /* для нуля единицы измерения писать необязательно */
   left: 0px;
   top: 73px;
 }
@@ -406,6 +411,7 @@ padding-bottom: 125px;
   }
 }
 .info__title {
+  /* для нуля единицы измерения писать необязательно */
   margin: 50px 0px 20px 0px;
   font-weight: 400;
   font-size: 24px;
@@ -464,6 +470,7 @@ padding-bottom: 125px;
 }
 @media (max-width: 320px){
   .slider-block__title{
+    /* для нуля единицы измерения писать необязательно */
     margin-left: 0px;
   }
 }
@@ -483,6 +490,7 @@ padding-bottom: 125px;
 @media (max-width: 320px){
   .slider-block__info{
     display: block ;
+    /* для нуля единицы измерения писать необязательно */
     margin-left: 0px;
   }
 }
@@ -512,6 +520,7 @@ padding-bottom: 125px;
   min-height: 330px;
 }
 .slider-block__info__img {
+  /* для нуля единицы измерения писать необязательно */
   padding: 60px 0px 0px 70px;
 }
 .slider-block__info__description{
@@ -550,6 +559,7 @@ padding-bottom: 125px;
 .slider-block__menu {
   display: flex;
   justify-content: space-between;
+  /* для нуля единицы измерения писать необязательно */
   padding: 63px 0px 0px 93px;
 
 }
@@ -620,6 +630,7 @@ margin-right: 76px;
   text-decoration: underline;
 }
 .footer-block__info__subtitle {
+  /* для нуля единицы измерения писать необязательно */
   padding: 36px 0px 65px 0px;
 
   font-weight: 400;
